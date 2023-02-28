@@ -1,0 +1,46 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    height: 110vh;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.frame{
+    height: 520px;
+    width: 1100px;
+    background: white;
+    margin-left: 190px;
+    margin-top: 20px;
+    padding-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.box{
+    height: 280px;
+    width: 1050px;
+    background: rgb(135, 16, 135);
+    margin-left: 25px;
+    padding-top: 20px;
+   
+}
+
+.title{
+    font-size: 80px;
+    margin-left: 270px;
+    margin-top: 60px;
+    color: rgb(237, 91, 237);
+}
+.calicut{
+    font-size: 25px;
+    margin-left: 500px;
+    margin-top: 30px;
+    color: darkgrey;
+    
+}
+
+.hrline{
+    width: 1050px;
+    margin-top: -20px;
+    color: darkgray;
+}
